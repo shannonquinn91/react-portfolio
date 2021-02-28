@@ -1,0 +1,18 @@
+.card-body {
+    background-color: lightgrey;
+}
+
+.p-card {
+    width: 800px;
+    margin: auto;
+}
+
+.p-btn {
+    margin-right: 20px;
+}
+
+.projects {
+    width: 50%;
+    height: auto;
+    padding-bottom: 10px;
+}

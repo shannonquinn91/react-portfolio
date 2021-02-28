@@ -1,0 +1,21 @@
+.about-card {
+    margin: auto;
+    width: 90%;
+}
+
+.about-body {
+    background-color: lightgray;
+}
+
+.card-body {
+    background-color: lightgrey;
+}
+
+.bio {
+    height: auto;
+    width: 100%;
+}
+
+.card {
+    border: none;
+}

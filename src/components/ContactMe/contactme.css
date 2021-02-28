@@ -1,0 +1,13 @@
+
+.c-card {
+    width: 800px;
+    margin: auto;
+}
+
+.card-body {
+    background-color: lightgrey;
+}
+
+.c-btn {
+    margin-right: 20px;
+}
