@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.96a834b3.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.8381f78b.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.8381f78b.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.ea97e557.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.ea97e557.js.map",
+    "static/css/2.150d169a.chunk.css": "/react-portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.d1c6aaef.chunk.js": "/react-portfolio/static/js/2.d1c6aaef.chunk.js",
+    "static/js/2.d1c6aaef.chunk.js.map": "/react-portfolio/static/js/2.d1c6aaef.chunk.js.map",
+    "static/js/3.b22f2b49.chunk.js": "/react-portfolio/static/js/3.b22f2b49.chunk.js",
+    "static/js/3.b22f2b49.chunk.js.map": "/react-portfolio/static/js/3.b22f2b49.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/react-portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.96a834b3.chunk.css.map": "/react-portfolio/static/css/main.96a834b3.chunk.css.map",
+    "static/js/2.d1c6aaef.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.d1c6aaef.chunk.js.LICENSE.txt",
+    "static/media/26110_381683018525_119430_n.c991b438.jpg": "/react-portfolio/static/media/26110_381683018525_119430_n.c991b438.jpg",
+    "static/media/SQuinn Resume.ebb39904.pdf": "/react-portfolio/static/media/SQuinn Resume.ebb39904.pdf",
+    "static/media/dashboard.25d5b9a1.png": "/react-portfolio/static/media/dashboard.25d5b9a1.png",
+    "static/media/drurylane.62621196.png": "/react-portfolio/static/media/drurylane.62621196.png",
+    "static/media/lastnames.194224ea.png": "/react-portfolio/static/media/lastnames.194224ea.png",
+    "static/media/readme.2e7a99a9.png": "/react-portfolio/static/media/readme.2e7a99a9.png",
+    "static/media/App.css": "/react-portfolio/static/media/sai-kiran-anagani-5Ntkpxqt54Y-unsplash.1adc28d1.jpg",
+    "static/media/sign_in.e08e05d4.png": "/react-portfolio/static/media/sign_in.e08e05d4.png",
+    "static/media/workday.fcd75855.png": "/react-portfolio/static/media/workday.fcd75855.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea97e557.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.d1c6aaef.chunk.js",
+    "static/css/main.96a834b3.chunk.css",
+    "static/js/main.8381f78b.chunk.js"
+  ]
+}
