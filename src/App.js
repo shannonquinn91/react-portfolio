@@ -23,9 +23,9 @@ function App() {
     <div className="App">
         <Navbar />
       <header className="App-header">
-        <SectionHeader title="About Me" id="sect-about"/>
+        <SectionHeader title="About Me" nav="sect-about"/>
         <AboutMe />
-        <SectionHeader tite="Projects" id="sect-proj" />
+        <SectionHeader title="Projects" nav="sect-proj" />
         <ProjectCard 
           projectName="Group Project: Full Stack Application" 
           src={hydrohomies}
@@ -86,7 +86,7 @@ function App() {
         github="https://github.com/shannonquinn91/Drury-Lane-Sweets"
         />
         <br></br>
-        <SectionHeader tite="Contact Me" id="sect-contact"/>
+        <SectionHeader title="Contact Me" nav="sect-contact"/>
         <ContactMe />
         <br></br>
         <Footer />
