@@ -18,7 +18,7 @@ function AboutMe () {
                         <br></br>
                         <a className="btn btn-primary btn-lg btn-block" href={resume} target="_blank" rel="noreferrer">
                             <i className="fas fa-paperclip"></i>
-                            Click here to view my resume.
+                              Click here to view my resume.
                         </a>
                     </div>
                 </div>

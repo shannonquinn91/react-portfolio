@@ -8,7 +8,7 @@ function ContactMe () {
             <h5>My Contact Information</h5>
         </div>
         <div className="card-body c-card">
-            <p className="card-text">Check out my LinkedIn and GitHub pages, or send me an email!</p>
+            <p className="card-text">Check out my LinkedIn and GitHub pages, or send me an email at <a href="mailto:shannon.quinn91@gmail.com">shannon.quinn91@gmail.com</a>!</p>
             <p className="card-text">I currently live in Exeter, NH, and you can reach me on my cell phone: 603-828-6116.</p>
             <a href="https://www.linkedin.com/in/shannon-quinn-4465074a/" className="btn btn-primary btn-lg c-btn" target="_blank" rel="noreferrer"> 
                 <i className="fab fa-linkedin"></i>
