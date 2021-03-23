@@ -16,6 +16,7 @@ import workout from './assets/dashboard.png';
 import workday from './assets/workday.png';
 import readme from './assets/readme.png';
 import drurylane from './assets/drurylane.png';
+import mongomovies from './assets/mongomovies.png';
 
 
 function App() {
@@ -26,6 +27,16 @@ function App() {
         <SectionHeader title="About Me" nav="sect-about"/>
         <AboutMe />
         <SectionHeader title="Projects" nav="sect-proj" />
+        <ProjectCard 
+          projectName="Group Project: React Application" 
+          src={mongomovies}
+          projectTitle="MongoMovies" 
+          desc="I worked with fellow bootcamp students on a react application for users to see trending movies, and create a presonalized movie collection. We utilized a MongoDB database, React.js, Node.js, Express.js, and several APIs to create the functionality. The application is deployed on Heroku."
+          deployed="https://mongomovies.herokuapp.com/"
+          btn="Deployed Page"
+          github="https://github.com/arensalmela/MongoMovies"
+          />
+        <br></br>
         <ProjectCard 
           projectName="Group Project: Full Stack Application" 
           src={hydrohomies}
